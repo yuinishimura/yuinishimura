@@ -103,9 +103,9 @@ input, select, textarea {
 		}
 
 	input, textarea, select {
-		font-size: 15pt;
+		font-size: 12pt;
 		line-height: 1.85em;
-		font-family: 'Source Sans Pro', sans-serif;
+		font-family: "Open Sans", Helvetica, sans-serif /* 'Source Sans Pro', sans-serif */; 
 		font-weight: 300;
 	}
 
