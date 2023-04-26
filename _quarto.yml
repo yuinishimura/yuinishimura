@@ -1,0 +1,56 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  search: false
+  page-navigation: true
+  title: "Yui Nishimura"
+    
+  page-footer:
+    left: 
+      - "&copy; 2023, Yui Nishimura."
+    
+    right: 
+    - href: https://twitter.com/YuiNishimura_
+      icon: twitter
+        
+    - href: https://github.com/yuinishimura
+      icon: github
+      
+    - href: mailto:nishimura@rice.edu
+      icon: envelope
+    
+
+  navbar:
+    background: "light"
+    right:
+      - href: index.qmd
+        text: Home
+        
+      - href: research.qmd
+        text: Research
+
+      - href: teaching.qmd
+        text: Teaching
+        
+      - href: cv.qmd
+        text: CV
+        
+      - href: resource.qmd
+        text: Resources
+
+format:
+  html:
+    theme: yeti
+    css: styles.css
+    toc: false
+    toc-depth: 4
+    toc-title: "Contents"
+    html-math-method: katex
+    highlight-style: tango
+    code-fold: true
+    callout-appearance: minimal
+    callout-icon: false
+
+

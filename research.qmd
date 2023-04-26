@@ -1,0 +1,105 @@
+---
+title: "Research"
+---
+
+## Dissertation
+
+My dissertation project receives support from Rice University [Graduate and Postdoctoral Studies](https://graduate.rice.edu/) (Wagoner Foreign Study Scholarship) and [School of Social Sciences](https://socialsciences.rice.edu/) (Pre-dissertation Grant). The paper that my dissertation built on received [APOSS](https://aposs.cc/) Best Graduate Student Paper Award and [the William P. Hobby Award](https://politicalscience.rice.edu/graduate-awards).
+
+
+
+
+<!-- .button { -->
+<!--   background-color: #4CAF50; /* Green */ -->
+<!--   border: none; -->
+<!--   color: white; -->
+<!--   padding: 15px 32px; -->
+<!--   text-align: center; -->
+<!--   text-decoration: none; -->
+<!--   display: inline-block; -->
+<!--   font-size: 16px; -->
+<!-- } -->
+
+<!-- /* Style the button that is used to open and close the collapsible content */ -->
+<!-- .collapsible { -->
+<!--   background-color: #ecf0f1; -->
+<!--   color: #444; -->
+<!--   cursor: pointer; -->
+<!--   padding: 18px; -->
+<!--   width: 100%; -->
+<!--   border: none; -->
+<!--   text-align: left; -->
+<!--   outline: none; -->
+<!--   font-size: 15px; -->
+<!-- } -->
+
+
+<!-- /* Style the collapsible content. Note: hidden by default */ -->
+<!-- .content { -->
+<!--   padding: 0 18px; -->
+<!--   display: none; -->
+<!--   border: none; -->
+<!--   overflow: hidden; -->
+<!--   background-color: #ecf0f1; -->
+<!-- } -->
+
+
+<!-- ::: {.callout-note collapse=true} -->
+
+
+ **Activists Together: Advocacy Cooperation and Government Shaming in the International Human Rights Mechanism** (Under review)  <button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#abstract" aria-expanded="false" aria-controls="abstract">  Abstract </button>
+```{=html}
+  <div class="collapse" id="abstract">
+    <div class="card card-body">
+      Under what conditions do governments criticize their peers for human rights abuses at an international organization? Scholars have long argued that NGOs shape international human rights discourse to make third-party governments pressure target governments. However, it remains unclear how governments prioritize targets and issues to criticize within the complex informational environment formed by potentially contesting human rights activists. I argue that when the design of international organizations incentivizes NGOs to collaborate, the cooperation magnifies their impact by signaling focal points. I apply a semi-supervised text analysis to NGO and government opinions in the Universal Periodic Review and examine the levels of similarities. Results indicate the spotlight effect of joint NGO endeavors: Third-party governments are more likely to shame the specific human rights violations in certain target governments that joint NGO reports highlight. These findings have broader implications for collaboration between international organizations, activists, and governments. 
+    </div>
+  </div>
+</p>
+```
+
+
+
+        
+<!-- ::: -->
+
+
+<!-- ::: {.callout-note collapse=true} -->
+
+**Intended and Unintended Consequences of Human Rights Advocacy: Shaming-driven Commitment and Compliance** (Presented at ISA 2023; Work in progress) 
+<button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#abstract_int" aria-expanded="false" aria-controls="abstract_int">  Abstract </button>
+```{=html}
+  <div class="collapse" id="abstract_int">
+    <div class="card card-body">
+      How does criticism of human rights violations by NGOs affect the behavior of targeted governments? Existing studies provide mixed evidence on the direct or indirect impact of international advocacy on human rights performance. By disaggregating shaming reactions into commitment and compliance, I argue that NGO cooperation can increase costs of noncompliant behaviors, and invite sincere commitments. However, due to potential violation costs, targeted governments become more hesitant to commit to human rights promises. Using newly collected data on NGO activism, government reactions, and implementation records at the UN Universal Periodic Review, I provide supportive evidence for this argument. These findings suggest that collaboration between activists and like-minded governments can create enough international pressure to elicit a behavioral commitment to international human rights mechanisms. 
+    </div>
+  </div>
+</p>
+```
+
+
+
+<!-- ::: -->
+
+
+## Peer-reviewed publication
+
+[Homola, Jonathan](https://jhomola.com/), [Connor Huff](https://connordhuff.com/), **Yui Nishimura**, and [Amorae Times](https://twitter.com/amoraet). "The Gendered Legacies of the Frontier and Military Enlistment Behavior." 2023. *Journal of Historical Political Economy* 2(4): 635–653. 
+
+<button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#abstract_jhpe" aria-expanded="false" aria-controls="abstract_jhpe">  Abstract </button>
+<button class="btn btn-primary btn-sm" onClick="window.open('https://www.nowpublishers.com/article/Details/HPE-0043');">Publisher</button>
+<button class="btn btn-primary btn-sm" onClick="window.open('https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4183828');">SSRN</button>
+
+```{=html}
+  <div class="collapse" id="abstract_jhpe">
+    <div class="card card-body">
+     How did the local legacies of the frontier shape the decisions of men and women to enlist in the US military during World War II? We combine county-level data on World War II enlistment with measures of total frontier exposure from Bazzi, Fiszbein and Gebresilasse (2020) to show that men enlisted in World War II at roughly similar rates regardless of whether they were from places with more or less frontier experience. By contrast, women located in places that had more frontier experience enlisted at lower rates. To better understand these differences, we next leverage county-level data from the 1940 Census, and show that women located in places with more total frontier experience had more household responsibilities, less labor force participation, and more children. Our findings show how the culture that developed on the frontier had a constraining influence on women, who were left with primary responsibilities on the homefront. This demobilization highlights how gendered cultural constraints can decrease women's military participation.
+    </div>
+  </div>
+</p>
+```
+
+<!-- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4183828 -->
+
+## Working papers
+
+Are Shared Values Valuable? Liberal Democracy and Human Rights for AUKUS and Its Future Membership (with [Atsushi Tago](https://a-tago.github.io/), Under review)
