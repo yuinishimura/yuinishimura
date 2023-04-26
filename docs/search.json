@@ -1,24 +1,59 @@
 [
   {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Introduction to R (Graduate: Summer 2020)\nStatistics/math tutor (Graduate: Fall 2019, Summer 2023)"
+  },
+  {
+    "objectID": "teaching.html#graduate-instructor-and-tutor",
+    "href": "teaching.html#graduate-instructor-and-tutor",
+    "title": "Teaching",
+    "section": "",
+    "text": "Introduction to R (Graduate: Summer 2020)\nStatistics/math tutor (Graduate: Fall 2019, Summer 2023)"
+  },
+  {
+    "objectID": "teaching.html#teaching-assistant",
+    "href": "teaching.html#teaching-assistant",
+    "title": "Teaching",
+    "section": "Teaching Assistant",
+    "text": "Teaching Assistant\n\nRice University\nCausal Inference (for Michelle Torres, Graduate: Spring 2022)\nIntroduction to Statistics (for Michelle Torres, Graduate: Fall 2021)\nMaximum Likelihood Estimation (for Randolph Stevenson, Graduate: Summer 2020)\n\n\nKobe University\nIntroduction to Information Science (Undergraduate: Spring 2017, 2018)\nKobe Journalism Workshop (Undergraduate: Spring 2017, 2018)\nFreshman Seminar (Undergraduate: Spring 2015, 2016, 2017)"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My dissertation project receives support from Rice University Graduate and Postdoctoral Studies (Wagoner Foreign Study Scholarship) and School of Social Sciences (Pre-dissertation Grant). The paper that my dissertation built on received APOSS Best Graduate Student Paper Award and the William P. Hobby Award.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nActivists Together: Advocacy Cooperation and Government Shaming in the International Human Rights Mechanism (Under review)  Abstract \n  \n    \n      Under what conditions do governments criticize their peers for human rights abuses at an international organization? Scholars have long argued that NGOs shape international human rights discourse to make third-party governments pressure target governments. However, it remains unclear how governments prioritize targets and issues to criticize within the complex informational environment formed by potentially contesting human rights activists. I argue that when the design of international organizations incentivizes NGOs to collaborate, the cooperation magnifies their impact by signaling focal points. I apply a semi-supervised text analysis to NGO and government opinions in the Universal Periodic Review and examine the levels of similarities. Results indicate the spotlight effect of joint NGO endeavors: Third-party governments are more likely to shame the specific human rights violations in certain target governments that joint NGO reports highlight. These findings have broader implications for collaboration between international organizations, activists, and governments. \n    \n  \n\n\n\nIntended and Unintended Consequences of Human Rights Advocacy: Shaming-driven Commitment and Compliance (Presented at ISA 2023; Work in progress)  Abstract \n  \n    \n      How does criticism of human rights violations by NGOs affect the behavior of targeted governments? Existing studies provide mixed evidence on the direct or indirect impact of international advocacy on human rights performance. By disaggregating shaming reactions into commitment and compliance, I argue that NGO cooperation can increase costs of noncompliant behaviors, and invite sincere commitments. However, due to potential violation costs, targeted governments become more hesitant to commit to human rights promises. Using newly collected data on NGO activism, government reactions, and implementation records at the UN Universal Periodic Review, I provide supportive evidence for this argument. These findings suggest that collaboration between activists and like-minded governments can create enough international pressure to elicit a behavioral commitment to international human rights mechanisms."
+  },
+  {
+    "objectID": "research.html#dissertation",
+    "href": "research.html#dissertation",
+    "title": "Research",
+    "section": "",
+    "text": "My dissertation project receives support from Rice University Graduate and Postdoctoral Studies (Wagoner Foreign Study Scholarship) and School of Social Sciences (Pre-dissertation Grant). The paper that my dissertation built on received APOSS Best Graduate Student Paper Award and the William P. Hobby Award.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nActivists Together: Advocacy Cooperation and Government Shaming in the International Human Rights Mechanism (Under review)  Abstract \n  \n    \n      Under what conditions do governments criticize their peers for human rights abuses at an international organization? Scholars have long argued that NGOs shape international human rights discourse to make third-party governments pressure target governments. However, it remains unclear how governments prioritize targets and issues to criticize within the complex informational environment formed by potentially contesting human rights activists. I argue that when the design of international organizations incentivizes NGOs to collaborate, the cooperation magnifies their impact by signaling focal points. I apply a semi-supervised text analysis to NGO and government opinions in the Universal Periodic Review and examine the levels of similarities. Results indicate the spotlight effect of joint NGO endeavors: Third-party governments are more likely to shame the specific human rights violations in certain target governments that joint NGO reports highlight. These findings have broader implications for collaboration between international organizations, activists, and governments. \n    \n  \n\n\n\nIntended and Unintended Consequences of Human Rights Advocacy: Shaming-driven Commitment and Compliance (Presented at ISA 2023; Work in progress)  Abstract \n  \n    \n      How does criticism of human rights violations by NGOs affect the behavior of targeted governments? Existing studies provide mixed evidence on the direct or indirect impact of international advocacy on human rights performance. By disaggregating shaming reactions into commitment and compliance, I argue that NGO cooperation can increase costs of noncompliant behaviors, and invite sincere commitments. However, due to potential violation costs, targeted governments become more hesitant to commit to human rights promises. Using newly collected data on NGO activism, government reactions, and implementation records at the UN Universal Periodic Review, I provide supportive evidence for this argument. These findings suggest that collaboration between activists and like-minded governments can create enough international pressure to elicit a behavioral commitment to international human rights mechanisms."
+  },
+  {
+    "objectID": "research.html#peer-reviewed-publication",
+    "href": "research.html#peer-reviewed-publication",
+    "title": "Research",
+    "section": "Peer-reviewed publication",
+    "text": "Peer-reviewed publication\nHomola, Jonathan, Connor Huff, Yui Nishimura, and Amorae Times. “The Gendered Legacies of the Frontier and Military Enlistment Behavior.” 2023. Journal of Historical Political Economy 2(4): 635–653.\n\nAbstract\n\n\nPublisher\n\n\nSSRN\n\n  \n    \n     How did the local legacies of the frontier shape the decisions of men and women to enlist in the US military during World War II? We combine county-level data on World War II enlistment with measures of total frontier exposure from Bazzi, Fiszbein and Gebresilasse (2020) to show that men enlisted in World War II at roughly similar rates regardless of whether they were from places with more or less frontier experience. By contrast, women located in places that had more frontier experience enlisted at lower rates. To better understand these differences, we next leverage county-level data from the 1940 Census, and show that women located in places with more total frontier experience had more household responsibilities, less labor force participation, and more children. Our findings show how the culture that developed on the frontier had a constraining influence on women, who were left with primary responsibilities on the homefront. This demobilization highlights how gendered cultural constraints can decrease women's military participation."
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "Working papers",
+    "text": "Working papers\nAre Shared Values Valuable? Liberal Democracy and Human Rights for AUKUS and Its Future Membership (with Atsushi Tago, Under review)"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Yui Nishimura",
     "section": "",
     "text": "Welcome!\nI am a Ph.D. candidate at the department of political science, Rice University. I also serve as a graduate assistant of International Organization.\nMy research interests center on human rights advocacy and historically marginalized populations. In my dissertation, I investigate the effectiveness of cooperative activism on human rights agendas at the international organizations.\nBefore attending Rice University as a Fulbright scholar, I received Bachelor in Law (2016) and Master in Political Science (2017) at Kobe University, Japan."
-  },
-  {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Projects",
-    "section": "",
-    "text": "A description of Project"
-  },
-  {
-    "objectID": "projects/index.html#project-ii",
-    "href": "projects/index.html#project-ii",
-    "title": "Projects",
-    "section": "Project II",
-    "text": "Project II\nA description of Project"
   },
   {
     "objectID": "about.html",
@@ -40,83 +75,6 @@
     "title": "Author",
     "section": "Experience",
     "text": "Experience\nI have developed X R packages, published Y papers."
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "My dissertation project receives support from Rice University Graduate and Postdoctoral Studies (Wagoner Foreign Study Scholarship) and School of Social Sciences (Pre-dissertation Grant). The paper that my dissertation built on received APOSS Best Graduate Student Paper Award and the William P. Hobby Award.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nActivists Together: Advocacy Cooperation and Government Shaming in the International Human Rights Mechanism (Under review)  Abstract \n  \n    \n      Under what conditions do governments criticize their peers for human rights abuses at an international organization? Scholars have long argued that NGOs shape international human rights discourse to make third-party governments pressure target governments. However, it remains unclear how governments prioritize targets and issues to criticize within the complex informational environment formed by potentially contesting human rights activists. I argue that when the design of international organizations incentivizes NGOs to collaborate, the cooperation magnifies their impact by signaling focal points. I apply a semi-supervised text analysis to NGO and government opinions in the Universal Periodic Review and examine the levels of similarities. Results indicate the spotlight effect of joint NGO endeavors: Third-party governments are more likely to shame the specific human rights violations in certain target governments that joint NGO reports highlight. These findings have broader implications for collaboration between international organizations, activists, and governments. \n    \n  \n\n\n\nIntended and Unintended Consequences of Human Rights Advocacy: Shaming-driven Commitment and Compliance (Presented at ISA 2023; Work in progress)  Abstract \n  \n    \n      How does criticism of human rights violations by NGOs affect the behavior of targeted governments? Existing studies provide mixed evidence on the direct or indirect impact of international advocacy on human rights performance. By disaggregating shaming reactions into commitment and compliance, I argue that NGO cooperation can increase costs of noncompliant behaviors, and invite sincere commitments. However, due to potential violation costs, targeted governments become more hesitant to commit to human rights promises. Using newly collected data on NGO activism, government reactions, and implementation records at the UN Universal Periodic Review, I provide supportive evidence for this argument. These findings suggest that collaboration between activists and like-minded governments can create enough international pressure to elicit a behavioral commitment to international human rights mechanisms."
-  },
-  {
-    "objectID": "research.html#peer-reviewed-publication",
-    "href": "research.html#peer-reviewed-publication",
-    "title": "Research",
-    "section": "Peer-reviewed publication",
-    "text": "Peer-reviewed publication\nHomola, Jonathan, Connor Huff, Yui Nishimura, and Amorae Times. “The Gendered Legacies of the Frontier and Military Enlistment Behavior.” 2023. Journal of Historical Political Economy 2(4): 635–653.\n\nAbstract\n\n\nPublisher\n\n\nSSRN\n\n  \n    \n     How did the local legacies of the frontier shape the decisions of men and women to enlist in the US military during World War II? We combine county-level data on World War II enlistment with measures of total frontier exposure from Bazzi, Fiszbein and Gebresilasse (2020) to show that men enlisted in World War II at roughly similar rates regardless of whether they were from places with more or less frontier experience. By contrast, women located in places that had more frontier experience enlisted at lower rates. To better understand these differences, we next leverage county-level data from the 1940 Census, and show that women located in places with more total frontier experience had more household responsibilities, less labor force participation, and more children. Our findings show how the culture that developed on the frontier had a constraining influence on women, who were left with primary responsibilities on the homefront. This demobilization highlights how gendered cultural constraints can decrease women's military participation."
-  },
-  {
-    "objectID": "research.html#working-papers",
-    "href": "research.html#working-papers",
-    "title": "Research",
-    "section": "Working papers",
-    "text": "Working papers\nAre Shared Values Valuable? Liberal Democracy and Human Rights for AUKUS and Its Future Membership (with Atsushi Tago, Under review)"
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Introduction to R (Graduate: Summer 2020)\nStatistics/math tutor (Graduate: Fall 2019, Summer 2023)"
-  },
-  {
-    "objectID": "teaching.html#teaching-assistant",
-    "href": "teaching.html#teaching-assistant",
-    "title": "Teaching",
-    "section": "Teaching Assistant",
-    "text": "Teaching Assistant\n\nRice University\nCausal Inference (for Michelle Torres, Graduate: Spring 2022)\nIntroduction to Statistics (for Michelle Torres, Graduate: Fall 2021)\nMaximum Likelihood Estimation (for Randolph Stevenson, Graduate: Summer 2020)\n\n\nKobe University\nIntroduction to Informational Science (Undergraduate: Spring 2017, 2018)\nKobe Journalism Workshop (Undergraduate: Spring 2017, 2018)\nFreshman Seminar (Undergraduate: Springs 2015, 2016, 2017)"
-  },
-  {
-    "objectID": "teaching.html#graduate-instructor-and-tutor",
-    "href": "teaching.html#graduate-instructor-and-tutor",
-    "title": "Teaching",
-    "section": "",
-    "text": "Introduction to R (Graduate: Summer 2020)\nStatistics/math tutor (Graduate: Fall 2019, Summer 2023)"
-  },
-  {
-    "objectID": "research.html#dissertation",
-    "href": "research.html#dissertation",
-    "title": "Research",
-    "section": "",
-    "text": "My dissertation project receives support from Rice University Graduate and Postdoctoral Studies (Wagoner Foreign Study Scholarship) and School of Social Sciences (Pre-dissertation Grant). The paper that my dissertation built on received APOSS Best Graduate Student Paper Award and the William P. Hobby Award.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nActivists Together: Advocacy Cooperation and Government Shaming in the International Human Rights Mechanism (Under review)  Abstract \n  \n    \n      Under what conditions do governments criticize their peers for human rights abuses at an international organization? Scholars have long argued that NGOs shape international human rights discourse to make third-party governments pressure target governments. However, it remains unclear how governments prioritize targets and issues to criticize within the complex informational environment formed by potentially contesting human rights activists. I argue that when the design of international organizations incentivizes NGOs to collaborate, the cooperation magnifies their impact by signaling focal points. I apply a semi-supervised text analysis to NGO and government opinions in the Universal Periodic Review and examine the levels of similarities. Results indicate the spotlight effect of joint NGO endeavors: Third-party governments are more likely to shame the specific human rights violations in certain target governments that joint NGO reports highlight. These findings have broader implications for collaboration between international organizations, activists, and governments. \n    \n  \n\n\n\nIntended and Unintended Consequences of Human Rights Advocacy: Shaming-driven Commitment and Compliance (Presented at ISA 2023; Work in progress)  Abstract \n  \n    \n      How does criticism of human rights violations by NGOs affect the behavior of targeted governments? Existing studies provide mixed evidence on the direct or indirect impact of international advocacy on human rights performance. By disaggregating shaming reactions into commitment and compliance, I argue that NGO cooperation can increase costs of noncompliant behaviors, and invite sincere commitments. However, due to potential violation costs, targeted governments become more hesitant to commit to human rights promises. Using newly collected data on NGO activism, government reactions, and implementation records at the UN Universal Periodic Review, I provide supportive evidence for this argument. These findings suggest that collaboration between activists and like-minded governments can create enough international pressure to elicit a behavioral commitment to international human rights mechanisms."
-  },
-  {
-    "objectID": "research.html#abstract",
-    "href": "research.html#abstract",
-    "title": "Research",
-    "section": "Abstract",
-    "text": "Abstract\n\nUnder what conditions do governments criticize their peers for human rights abuses at an international organization? Scholars have long argued that NGOs shape international human rights discourse to make third-party governments pressure target governments. However, it remains unclear how governments prioritize targets and issues to criticize within the complex informational environment formed by potentially contesting human rights activists. I argue that when the design of international organizations incentivizes NGOs to collaborate, the cooperation magnifies their impact by signaling focal points. I apply a semi-supervised text analysis to NGO and government opinions in the Universal Periodic Review and examine the levels of similarities. Results indicate the spotlight effect of joint NGO endeavors: Third-party governments are more likely to shame the specific human rights violations in certain target governments that joint NGO reports highlight. These findings have broader implications for collaboration between international organizations, activists, and governments."
-  },
-  {
-    "objectID": "research.html#activists-together-advocacy-cooperation-and-government-shaming-in-the-international-human-rights-mechanism-under-review",
-    "href": "research.html#activists-together-advocacy-cooperation-and-government-shaming-in-the-international-human-rights-mechanism-under-review",
-    "title": "Research",
-    "section": "Activists Together: Advocacy Cooperation and Government Shaming in the International Human Rights Mechanism (Under review)",
-    "text": "Activists Together: Advocacy Cooperation and Government Shaming in the International Human Rights Mechanism (Under review)\n\nUnder what conditions do governments criticize their peers for human rights abuses at an international organization? Scholars have long argued that NGOs shape international human rights discourse to make third-party governments pressure target governments. However, it remains unclear how governments prioritize targets and issues to criticize within the complex informational environment formed by potentially contesting human rights activists. I argue that when the design of international organizations incentivizes NGOs to collaborate, the cooperation magnifies their impact by signaling focal points. I apply a semi-supervised text analysis to NGO and government opinions in the Universal Periodic Review and examine the levels of similarities. Results indicate the spotlight effect of joint NGO endeavors: Third-party governments are more likely to shame the specific human rights violations in certain target governments that joint NGO reports highlight. These findings have broader implications for collaboration between international organizations, activists, and governments."
-  },
-  {
-    "objectID": "research.html#intended-and-unintended-consequences-of-human-rights-advocacy-shaming-driven-commitment-and-compliance-presented-at-isa-2023-work-in-progress",
-    "href": "research.html#intended-and-unintended-consequences-of-human-rights-advocacy-shaming-driven-commitment-and-compliance-presented-at-isa-2023-work-in-progress",
-    "title": "Research",
-    "section": "Intended and Unintended Consequences of Human Rights Advocacy: Shaming-driven Commitment and Compliance (Presented at ISA 2023; Work in progress)",
-    "text": "Intended and Unintended Consequences of Human Rights Advocacy: Shaming-driven Commitment and Compliance (Presented at ISA 2023; Work in progress)\n\nHow does criticism of human rights violations by NGOs affect the behavior of targeted governments? Existing studies provide mixed evidence on the direct or indirect impact of international advocacy on human rights performance. By disaggregating shaming reactions into commitment and compliance, I argue that NGO cooperation can increase costs of noncompliant behaviors, and invite sincere commitments. However, due to potential violation costs, targeted governments become more hesitant to commit to human rights promises. Using newly collected data on NGO activism, government reactions, and implementation records at the UN Universal Periodic Review, I provide supportive evidence for this argument. These findings suggest that collaboration between activists and like-minded governments can create enough international pressure to elicit a behavioral commitment to international human rights mechanisms."
-  },
-  {
-    "objectID": "resource.html#ph.d.-program-application-in-japanese",
-    "href": "resource.html#ph.d.-program-application-in-japanese",
-    "title": "Resource",
-    "section": "Ph.D. Program Application (in Japanese)",
-    "text": "Ph.D. Program Application (in Japanese)"
   },
   {
     "objectID": "resource.html",
