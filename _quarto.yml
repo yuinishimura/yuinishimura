@@ -4,6 +4,7 @@ project:
 
 website:
   search: false
+  favicon: logo.png
   page-navigation: true
   title: "Yui Nishimura"
     
