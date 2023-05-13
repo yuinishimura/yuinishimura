@@ -84,7 +84,6 @@ My dissertation project receives support from Rice University [Graduate and Post
 ## Peer-reviewed publication
 
 [Homola, Jonathan](https://jhomola.com/), [Connor Huff](https://connordhuff.com/), **Yui Nishimura**, and [Amorae Times](https://twitter.com/amoraet). "The Gendered Legacies of the Frontier and Military Enlistment Behavior." 2023. *Journal of Historical Political Economy* 2(4): 635–653. 
-
 <button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#abstract_jhpe" aria-expanded="false" aria-controls="abstract_jhpe">  Abstract </button>
 <button class="btn btn-primary btn-sm" onClick="window.open('https://www.nowpublishers.com/article/Details/HPE-0043');">Publisher</button>
 <button class="btn btn-primary btn-sm" onClick="window.open('https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4183828');">SSRN</button>
