@@ -2,8 +2,17 @@
 title: "Resources"
 ---
 
-Unofficial Rice University Beamer Template
+## Unofficial Rice University Beamer Template
 
 
-Ph.D. Program Application (in Japanese)
+## Ph.D. Program Application (in Japanese)
+
+<html>
+  <body>
+  <p>If you are interested in Ph.D. programs in the US, the following document summarizes some information on scholarships, process, and document preparations based on my experience.</p>
+    <object data="RyugakuTips.pdf" type="application/pdf" width="85%" height="650px">
+      <p>Unable to display PDF file. <a href="RyugakuTips.pdf">Download</a> instead.</p>
+    </object>
+  </body>
+</html>
 
