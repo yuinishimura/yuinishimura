@@ -9,9 +9,9 @@ title: "Resources"
 
 <html>
   <body>
-  <p>If you are interested in Ph.D. programs in the US, the following document summarizes some information on scholarships, process, and document preparations based on my experience.</p>
+  <p>If you are interested in Ph.D. programs in the US, the following document summarizes some information on scholarships, application process, and document preparations based on my experience. </p>
     <object data="RyugakuTips.pdf" type="application/pdf" width="85%" height="650px">
-      <p>Unable to display PDF file. <a href="RyugakuTips.pdf">Download</a> instead.</p>
+      <p>Unable to display PDF file. Download <a href="RyugakuTips.pdf">here</a>.</p>
     </object>
   </body>
 </html>
