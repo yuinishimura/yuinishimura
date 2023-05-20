@@ -3,10 +3,11 @@ project:
   output-dir: docs
 
 website:
-  search: false
   favicon: logo.png
+  search: false
   page-navigation: true
-  title: "Yui Nishimura" 
+  title: "Yui Nishimura"
+  site-url: https://yuinishimura.github.io/
     
   page-footer:
     left: 
