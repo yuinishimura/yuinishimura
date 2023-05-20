@@ -6,48 +6,76 @@ title: "Research"
 
 My dissertation project receives support from Rice University [Graduate and Postdoctoral Studies](https://graduate.rice.edu/) (Wagoner Foreign Study Scholarship) and [School of Social Sciences](https://socialsciences.rice.edu/) (Pre-dissertation Grant). The paper that my dissertation built on received [APOSS](https://aposs.cc/) Best Graduate Student Paper Award and [the William P. Hobby Award](https://politicalscience.rice.edu/graduate-awards).
 
+```{=html}
+<p></p>
+```
 
-
+<!-- My dissertation project receives support from Rice University [Graduate and Postdoctoral Studies](https://graduate.rice.edu/) (Wagoner Foreign Study Scholarship) and [School of Social Sciences](https://socialsciences.rice.edu/) (Pre-dissertation Grant). The paper that my dissertation built on received [APOSS](https://aposs.cc/) Best Graduate Student Paper Award and [the William P. Hobby Award](https://politicalscience.rice.edu/graduate-awards). -->
 
 <!-- .button { -->
+
 <!--   background-color: #4CAF50; /* Green */ -->
+
 <!--   border: none; -->
+
 <!--   color: white; -->
+
 <!--   padding: 15px 32px; -->
+
 <!--   text-align: center; -->
+
 <!--   text-decoration: none; -->
+
 <!--   display: inline-block; -->
+
 <!--   font-size: 16px; -->
+
 <!-- } -->
 
 <!-- /* Style the button that is used to open and close the collapsible content */ -->
-<!-- .collapsible { -->
-<!--   background-color: #ecf0f1; -->
-<!--   color: #444; -->
-<!--   cursor: pointer; -->
-<!--   padding: 18px; -->
-<!--   width: 100%; -->
-<!--   border: none; -->
-<!--   text-align: left; -->
-<!--   outline: none; -->
-<!--   font-size: 15px; -->
-<!-- } -->
 
+<!-- .collapsible { -->
+
+<!--   background-color: #ecf0f1; -->
+
+<!--   color: #444; -->
+
+<!--   cursor: pointer; -->
+
+<!--   padding: 18px; -->
+
+<!--   width: 100%; -->
+
+<!--   border: none; -->
+
+<!--   text-align: left; -->
+
+<!--   outline: none; -->
+
+<!--   font-size: 15px; -->
+
+<!-- } -->
 
 <!-- /* Style the collapsible content. Note: hidden by default */ -->
-<!-- .content { -->
-<!--   padding: 0 18px; -->
-<!--   display: none; -->
-<!--   border: none; -->
-<!--   overflow: hidden; -->
-<!--   background-color: #ecf0f1; -->
-<!-- } -->
 
+<!-- .content { -->
+
+<!--   padding: 0 18px; -->
+
+<!--   display: none; -->
+
+<!--   border: none; -->
+
+<!--   overflow: hidden; -->
+
+<!--   background-color: #ecf0f1; -->
+
+<!-- } -->
 
 <!-- ::: {.callout-note collapse=true} -->
 
+**Activists Together: Advocacy Cooperation and Government Shaming in the International Human Rights Mechanism** (Under review) <button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#abstract" aria-expanded="false" aria-controls="abstract"> Abstract </button>
 
- **Activists Together: Advocacy Cooperation and Government Shaming in the International Human Rights Mechanism** (Under review)  <button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#abstract" aria-expanded="false" aria-controls="abstract">  Abstract </button>
 ```{=html}
   <div class="collapse" id="abstract">
     <div class="card card-body">
@@ -56,17 +84,12 @@ My dissertation project receives support from Rice University [Graduate and Post
   </div>
 </p>
 ```
-
-
-
-        
 <!-- ::: -->
-
 
 <!-- ::: {.callout-note collapse=true} -->
 
-**Intended and Unintended Consequences of Human Rights Advocacy: Shaming-driven Commitment and Compliance** (Presented at ISA 2023; Work in progress) 
-<button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#abstract_int" aria-expanded="false" aria-controls="abstract_int">  Abstract </button>
+**Intended and Unintended Consequences of Human Rights Advocacy: Shaming-driven Commitment and Compliance** (Presented at ISA 2023; Work in progress) <button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#abstract_int" aria-expanded="false" aria-controls="abstract_int"> Abstract </button>
+
 ```{=html}
   <div class="collapse" id="abstract_int">
     <div class="card card-body">
@@ -75,18 +98,11 @@ My dissertation project receives support from Rice University [Graduate and Post
   </div>
 </p>
 ```
-
-
-
 <!-- ::: -->
-
 
 ## Peer-reviewed publication
 
-[Homola, Jonathan](https://jhomola.com/), [Connor Huff](https://connordhuff.com/), **Yui Nishimura**, and [Amorae Times](https://twitter.com/amoraet). "The Gendered Legacies of the Frontier and Military Enlistment Behavior." 2023. *Journal of Historical Political Economy* 2(4): 635–653. 
-<button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#abstract_jhpe" aria-expanded="false" aria-controls="abstract_jhpe">  Abstract </button>
-<button class="btn btn-primary btn-sm" onClick="window.open('https://www.nowpublishers.com/article/Details/HPE-0043');">Publisher</button>
-<button class="btn btn-primary btn-sm" onClick="window.open('https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4183828');">SSRN</button>
+[Homola, Jonathan](https://jhomola.com/), [Connor Huff](https://connordhuff.com/), **Yui Nishimura**, and [Amorae Times](https://twitter.com/amoraet). "The Gendered Legacies of the Frontier and Military Enlistment Behavior." 2023. *Journal of Historical Political Economy* 2(4): 635--653. <button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#abstract_jhpe" aria-expanded="false" aria-controls="abstract_jhpe"> Abstract </button> <button class="btn btn-primary btn-sm" onClick="window.open('https://www.nowpublishers.com/article/Details/HPE-0043');">Publisher</button> <button class="btn btn-primary btn-sm" onClick="window.open('https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4183828');"> SSRN </button>
 
 ```{=html}
   <div class="collapse" id="abstract_jhpe">
@@ -96,7 +112,6 @@ My dissertation project receives support from Rice University [Graduate and Post
   </div>
 </p>
 ```
-
 <!-- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4183828 -->
 
 ## Working papers
