@@ -6,9 +6,7 @@ title: "Research"
 
 My dissertation project receives support from Rice University [Graduate and Postdoctoral Studies](https://graduate.rice.edu/) (Wagoner Foreign Study Scholarship) and [School of Social Sciences](https://socialsciences.rice.edu/) (Pre-dissertation Grant). The paper that my dissertation built on received [APOSS](https://aposs.cc/) Best Graduate Student Paper Award and [the William P. Hobby Award](https://politicalscience.rice.edu/graduate-awards).
 
-```{=html}
-<p></p>
-```
+
 
 <!-- My dissertation project receives support from Rice University [Graduate and Postdoctoral Studies](https://graduate.rice.edu/) (Wagoner Foreign Study Scholarship) and [School of Social Sciences](https://socialsciences.rice.edu/) (Pre-dissertation Grant). The paper that my dissertation built on received [APOSS](https://aposs.cc/) Best Graduate Student Paper Award and [the William P. Hobby Award](https://politicalscience.rice.edu/graduate-awards). -->
 
