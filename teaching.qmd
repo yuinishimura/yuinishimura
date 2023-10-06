@@ -2,7 +2,7 @@
 title: "Teaching"
 ---
 
-## Graduate Instructor and Tutor
+## Instructor and Tutor
 
 Introduction to R (Graduate: Summer 2020)
 
