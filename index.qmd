@@ -1,11 +1,11 @@
 ---
 title: ""
-image: profile_upr.png
+image: prof_rice.jpg
 about:
   id: hero-heading
   template: solana
   image-width: 20em
-  image-shape: round
+  image-shape: rectangle
 ---
 
 ::: {#hero-heading}
